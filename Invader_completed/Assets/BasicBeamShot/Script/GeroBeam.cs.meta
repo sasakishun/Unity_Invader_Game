@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c52555774763cf14fb551beb1115676b
+timeCreated: 1478021617
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - HitEffect: {instanceID: 0}
+  - anchor: {instanceID: 0}
+  - scorescript: {instanceID: 0}
+  - cyclone: {instanceID: 0}
+  - fogflow: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

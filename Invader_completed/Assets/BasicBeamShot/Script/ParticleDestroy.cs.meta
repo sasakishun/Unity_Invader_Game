@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 21f6d209a7a59a44b9638cd753eaf537
+timeCreated: 1478098418
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - cyclone: {fileID: 100008, guid: 01603b7302bd34f379cc7d1ef6b55a15, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
